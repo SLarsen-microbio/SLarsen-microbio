@@ -1,7 +1,10 @@
-<p align="center"
+<p align="center">
   <img src="GitHubBanner.png" alt="GitHub Banner" width="100%>
   </p>
-# Shari Larsen 
+
+ 
+
+# Shari Larsen
 ### Environmental Microbiologist | Bioinformatician | Ph.D Candidate
 
 I investigate microbial communities using metagenomics, viromics, microbial genomics, and bioinformatics to better understand antimicrobial resistance, bacteriophages, and viral ecology in environmental systems.
