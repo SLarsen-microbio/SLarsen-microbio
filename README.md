@@ -1,4 +1,6 @@
-
+<p align="center"
+  <img src="GitHubBanner.png" alt="GitHub Banner" width="100%>
+  <p/>
 # Shari Larsen 
 ### Environmental Microbiologist | Bioinformatician | Ph.D Candidate
 
