@@ -5,7 +5,7 @@
  
 
 # Shari Larsen
-### Environmental Microbiologist | Bioinformatician | Ph.D Candidate
+### Environmental Microbiologist | Bioinformatician | Ph.D Degree Conferral Pending
 
 I investigate microbial communities using metagenomics, viromics, microbial genomics, and bioinformatics to better understand antimicrobial resistance, bacteriophages, and viral ecology in environmental systems.
 
