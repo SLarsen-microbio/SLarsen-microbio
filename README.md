@@ -13,7 +13,7 @@ I investigate microbial communities using metagenomics, viromics, microbial geno
 
 ## About Me
 
-I am a Ph.D. candidate in the Quantitative and Systems Biology Graduate Program at the University of California, Merced.
+I have successfully defended my Ph.D. dissertation in Quantitative and Systems Biology at the University of California, Merced, and am awaiting formal degree conferral.
 
 My research combines microbiology, genomics, and computational biology to study microbial communities in wastewater and freshwater environments. I enjoy developing reproducible bioinformatics workflows that transform sequencing data into biological insights.
 
